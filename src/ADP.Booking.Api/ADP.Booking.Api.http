@@ -1,0 +1,6 @@
+@ADP.Booking.Api_HostAddress = http://localhost:5186
+
+GET {{ADP.Booking.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

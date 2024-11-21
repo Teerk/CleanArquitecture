@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ADP.Booking.Api.props" />
+</Project>
